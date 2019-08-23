@@ -19,5 +19,5 @@ it = 34 / 5
 end
 
 def square_root(num)
-
+it = 9
 end
