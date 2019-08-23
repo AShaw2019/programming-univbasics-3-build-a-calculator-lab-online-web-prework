@@ -1,5 +1,5 @@
 def addition(num1, num2)
-it = 6 + 3
+it = 5 + 4
 end
 
 def subtraction(num1, num2)
