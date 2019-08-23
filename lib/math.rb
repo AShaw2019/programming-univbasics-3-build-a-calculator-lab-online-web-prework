@@ -15,7 +15,7 @@ it = 4 * 30
 end
 
 def modulo(num1, num2)
-it = 34 / 5
+it = 4
 end
 
 def square_root(num)
